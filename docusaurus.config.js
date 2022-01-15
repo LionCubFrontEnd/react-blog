@@ -8,8 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '前端',
   tagline: 'Dinosaurs are cool',
-  url: 'https://yangchaoyi.vip/react',
+  url: 'https://blog.yangchaoyi.vip',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
