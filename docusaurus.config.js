@@ -11,7 +11,7 @@ const config = {
   url: 'https://blog.yangchaoyi.vip',
   baseUrl: '/',
   trailingSlash: true,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'LionCubFrontEnd', // Usually your GitHub org/user name.
