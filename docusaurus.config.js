@@ -9,7 +9,7 @@ const config = {
   title: '前端',
   tagline: 'Dinosaurs are cool',
   url: 'https://blog.yangchaoyi.vip',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
